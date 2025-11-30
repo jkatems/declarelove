@@ -1,16 +1,25 @@
-# love
+#love ❤️
 
-A new Flutter project.
+A romantic Flutter app created as a digital declaration of love. This app features an elegant interface with gentle animations, a personalized poem, and background music to create a unique emotional experience.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- **Animated Home Screen**: Dynamic color gradient with color animation
+- **Custom Poem**: Gradual display of a romantic poem
+- **Background Music**: Automatic background music playback
+- **Elegant Design**: Clean user interface with the Playfair Display font
+- **Smooth Animations**: Smooth transitions and visual effects
+- **Custom Background**: Animated hearts in the background
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
+- Flutter SDK (version 3.0 or higher)
+- Dart SDK
+- An emulator or physical device
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation Steps
+
+1. Clone the repository:
+```bash
+git clone https://github.com/jkatems/declarelove.git
