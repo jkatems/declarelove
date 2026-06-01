@@ -1,25 +1,67 @@
-#love ❤️
+Declare Love – Flutter App
 
-A romantic Flutter app created as a digital declaration of love. This app features an elegant interface with gentle animations, a personalized poem, and background music to create a unique emotional experience.
+A Flutter mobile application focused on UI animation, smooth user experience, and interactive design. This project demonstrates mobile development skills with emphasis on layout design, animations, and multimedia integration.
 
-## ✨ Features
+Overview
 
-- **Animated Home Screen**: Dynamic color gradient with color animation
-- **Custom Poem**: Gradual display of a romantic poem
-- **Background Music**: Automatic background music playback
-- **Elegant Design**: Clean user interface with the Playfair Display font
-- **Smooth Animations**: Smooth transitions and visual effects
-- **Custom Background**: Animated hearts in the background
+This application showcases a simple but polished mobile experience including:
 
-## 🚀 Installation
+- Animated gradient home screen
+- Sequential text rendering (story/poem display system)
+- Background audio playback
+- Custom UI design with typography styling
+- Lightweight animation effects
 
-### Prerequisites
-- Flutter SDK (version 3.0 or higher)
-- Dart SDK
-- An emulator or physical device
+Tech Stack
 
-### Installation Steps
+- Flutter (Dart)
+- Material Design
+- Audio player integration
+- Custom assets (icons, music)
 
-1. Clone the repository:
-```bash
+Features
+- Dynamic animated home screen
+- Smooth gradient transitions
+- Progressive text display system
+
+Background music integration
+
+Custom styled UI with fonts and themes
+Lightweight animated background elements
+
+Project Structure
+/lib
+  main.dart          → Entry point of the app
+  home.dart          → Home screen UI & animations
+  declare.dart       → Text/poem rendering logic
+
+/assets
+  /icons             → App icons and images
+  /music             → Background audio files
+Getting Started
+Prerequisites
+Flutter SDK (3.0+)
+
+Dart SDK
+
+Emulator or physical device
+
+Installation
+
 git clone https://github.com/jkatems/declarelove.git
+cd declarelove
+flutter pub get
+flutter run
+Notes
+This project was built as a Flutter UI/animation exercise to demonstrate:
+
+Mobile UI design skills
+
+Animation handling
+
+Basic state management
+
+Media integration (audio + visuals)
+
+Status
+Archived personal project (last update: 7 months ago)
